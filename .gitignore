@@ -1,0 +1,9 @@
+# Ignore CMake binary directories.
+/out
+/build
+
+# Ignore .VS folder
+/.vs
+
+# Ignore .VS CMake Settings
+/CMakeSettings.json
